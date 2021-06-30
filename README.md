@@ -10,13 +10,13 @@
 
 **1.6**  分别打开下面三幅图，判断它们的颜色（matlab）
 
-<img src="practice-1/images/RGY-circle.png" alt="circle" style="zoom:50%;" />
+<div align=center><img width="450" height="100" src="practice-1/images/RGY-circle.png"/></div>
 
 **1.7**  采用python和 opencv，实现图片载入显示保存；实现Matplotlib显示图像（python）
 
 **reflection**  用简单的图像检测方法，实现中国国旗和日本国旗的检测判断.
 
-<img src="practice-1/images/China.jpg" alt="circle" style="zoom:20%;" />
+<div align=center><img width="150" height="150" src="practice-1/images/China.jpg"/></div>
 
 ---
 
@@ -36,9 +36,9 @@
 
 **reflection**  检测出两幅图中缺陷的位置，大小，周长等参数.
 
-<img src="practice-2/images/flaw1.png" alt="flaw1" style="zoom:70%;" />
+<div align=center> <img width="120" height="120" src="practice-2/images/flaw1.png"/><img width="120" height="120" src="practice-2/images/flaw2.png"/> </div>
 
-<img src="practice-2/images/flaw2.png" alt="flaw2" style="zoom:70%;" />
+
 
 ---
 
@@ -78,7 +78,7 @@
 
 **4.7**  对噪声照片滤波并计算面积（cpp）
 
-<img src="practice-4/images/noise.jpg" alt="noise" style="zoom:50%;" />
+<div align=center><img width="200" height="150" src="practice-4/images/noise.jpg"/></div>
 
 **4.8**  实现图像几何变换(旋转平移缩放仿射变换透视变换)（python）
 
@@ -86,9 +86,7 @@
 
 **reflection**  检测零件上两个小孔之间的距离
 
-<img src="practice-4/images/detect_circles.jpg" alt="detect_circles" style="zoom:40%;" />
-
----
+<div align=center><img width="200" height="150" src="practice-4/images/detect_circles.jpg"/></div>
 
 ### practice 5
 
@@ -98,19 +96,17 @@
 
 **5.3**  大米检测 -  读取图像，估计图像背景，从原始图像中减去背景图像，调节图像的对比度，二值化，连通体标记（cpp）
 
-<img src="practice-5/images/rice.jpg" alt="noise" style="zoom:50%;" />
+<div align=center><img width="170" height="150" src="practice-5/images/rice.jpg"/></div>
 
 **5.4**  圆心距离测距 - 读取图像， 检测两个圆的圆心， 检测两个圆的圆心的距离（cpp）
 
-<img src="practice-5/images/center_detection.jpg" alt="noise" style="zoom:40%;" />
-
 **5.8**   “工字件”最短边距离的测量 - 读取图像，检测左右“两个最接近”边的距离（cpp）
-
-<img src="practice-5/images/shortest_dist.jpg" alt="noise" style="zoom:40%;" />
 
 **5.9**  旋转的“工字件”最短边距离的测量 - 读取图像，检测左右“两个最接近”边的距离（cpp）
 
-<img src="practice-5/images/shortest_dist_2.jpg" alt="noise" style="zoom:40%;" />
+<div align=center> <img width="200" height="150" src="practice-5/images/center_detection.jpg"/> <img width="200" height="150" src="practice-5/images/shortest_dist.jpg"/> <img width="200" height="150" src="practice-5/images/shortest_dist_2.jpg"/> </div>
+
+
 
 **5.10**  实现图像混合(算数运算混合按位运算)（python）
 
